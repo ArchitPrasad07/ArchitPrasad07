@@ -27,5 +27,5 @@ I'm an aspiring software developer who enjoys building things, solving problems,
 - App Development
 
 ### 🤝 Let's Connect
-- LinkedIn: [Your LinkedIn Profile]
+- LinkedIn: Archit Prasad
 - GitHub: [ArchitPrasad07](https://github.com/ArchitPrasad07)
