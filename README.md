@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Archit Prasad 👋
 
-<!--
-**ArchitPrasad07/ArchitPrasad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.Tech Information Technology Student | VIT Vellore
 
-Here are some ideas to get you started:
+I'm an aspiring software developer who enjoys building things, solving problems, and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Pursuing B.Tech in Information Technology at VIT Vellore.
+- 💻 Comfortable working with Python, Java, and C++.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🌐 Exploring Web Development and App Development.
+- 🛠️ Building practical projects and learning through hands-on experience.
+
+### 🧰 Languages & Technologies
+- Python
+- Java
+- C++
+- Tkinter
+- SQL
+
+### 📌 Projects
+- **NovaTech:** An electronics e-commerce desktop application built using Python and Tkinter.
+
+### 🎯 Currently Exploring
+- Artificial Intelligence & Machine Learning
+- Web Development
+- App Development
+
+### 🤝 Let's Connect
+- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [ArchitPrasad07](https://github.com/ArchitPrasad07)
